@@ -1,0 +1,176 @@
+C:\luyenhaidangit.github.io\refrigerators-store-manage-app\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\luyenhaidangit.github.io\refrigerators-store-manage-app\GUI\obj\Debug\GUI.csproj.SuggestedBindingRedirects.cache
+C:\luyenhaidangit.github.io\refrigerators-store-manage-app\GUI\obj\Debug\Cao_Van_Dan.GUI_DangKy.resources
+C:\luyenhaidangit.github.io\refrigerators-store-manage-app\GUI\obj\Debug\Cao_Van_Dan.GUI_DangNhap.resources
+C:\luyenhaidangit.github.io\refrigerators-store-manage-app\GUI\obj\Debug\Cao_Van_Dan.GUI_HoaDon.resources
+C:\luyenhaidangit.github.io\refrigerators-store-manage-app\GUI\obj\Debug\Cao_Van_Dan.GUI_KhachHang.resources
+C:\luyenhaidangit.github.io\refrigerators-store-manage-app\GUI\obj\Debug\Cao_Van_Dan.GUI_Load.resources
+C:\luyenhaidangit.github.io\refrigerators-store-manage-app\GUI\obj\Debug\Cao_Van_Dan.GUI_NhanVien.resources
+C:\luyenhaidangit.github.io\refrigerators-store-manage-app\GUI\obj\Debug\Cao_Van_Dan.GUI_ThongKe_BaoCao.resources
+C:\luyenhaidangit.github.io\refrigerators-store-manage-app\GUI\obj\Debug\Cao_Van_Dan.GUI_TimKiem.resources
+C:\luyenhaidangit.github.io\refrigerators-store-manage-app\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\luyenhaidangit.github.io\refrigerators-store-manage-app\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\luyenhaidangit.github.io\refrigerators-store-manage-app\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\luyenhaidangit.github.io\refrigerators-store-manage-app\GUI\bin\Debug\GUI.exe.config
+C:\luyenhaidangit.github.io\refrigerators-store-manage-app\GUI\bin\Debug\GUI.exe
+C:\luyenhaidangit.github.io\refrigerators-store-manage-app\GUI\bin\Debug\GUI.pdb
+C:\luyenhaidangit.github.io\refrigerators-store-manage-app\GUI\bin\Debug\BUS.dll
+C:\luyenhaidangit.github.io\refrigerators-store-manage-app\GUI\bin\Debug\DAL.dll
+C:\luyenhaidangit.github.io\refrigerators-store-manage-app\GUI\bin\Debug\BUS.pdb
+C:\luyenhaidangit.github.io\refrigerators-store-manage-app\GUI\bin\Debug\DAL.pdb
+C:\luyenhaidangit.github.io\refrigerators-store-manage-app\GUI\obj\Debug\GUI.csproj.CopyComplete
+C:\luyenhaidangit.github.io\refrigerators-store-manage-app\GUI\obj\Debug\GUI.exe
+C:\luyenhaidangit.github.io\refrigerators-store-manage-app\GUI\obj\Debug\GUI.pdb
+C:\luyenhaidangit.github.io\refrigerators-store-manage-app\GUI\bin\Debug\DTO.dll
+C:\luyenhaidangit.github.io\refrigerators-store-manage-app\GUI\bin\Debug\DTO.pdb
+C:\luyenhaidangit.github.io\refrigerators-store-manage-app\GUI\obj\Debug\Cao_Van_Dan.GUI_SanPham.resources
+C:\luyenhaidangit\refrigerator-store-manage-app\GUI\bin\Debug\GUI.exe.config
+C:\luyenhaidangit\refrigerator-store-manage-app\GUI\bin\Debug\GUI.exe
+C:\luyenhaidangit\refrigerator-store-manage-app\GUI\bin\Debug\GUI.pdb
+C:\luyenhaidangit\refrigerator-store-manage-app\GUI\bin\Debug\BUS.dll
+C:\luyenhaidangit\refrigerator-store-manage-app\GUI\bin\Debug\DAL.dll
+C:\luyenhaidangit\refrigerator-store-manage-app\GUI\bin\Debug\DTO.dll
+C:\luyenhaidangit\refrigerator-store-manage-app\GUI\bin\Debug\BUS.pdb
+C:\luyenhaidangit\refrigerator-store-manage-app\GUI\bin\Debug\DAL.pdb
+C:\luyenhaidangit\refrigerator-store-manage-app\GUI\bin\Debug\DTO.pdb
+C:\luyenhaidangit\refrigerator-store-manage-app\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\luyenhaidangit\refrigerator-store-manage-app\GUI\obj\Debug\GUI.csproj.SuggestedBindingRedirects.cache
+C:\luyenhaidangit\refrigerator-store-manage-app\GUI\obj\Debug\Cao_Van_Dan.GUI_SanPham.resources
+C:\luyenhaidangit\refrigerator-store-manage-app\GUI\obj\Debug\Cao_Van_Dan.GUI_DangKy.resources
+C:\luyenhaidangit\refrigerator-store-manage-app\GUI\obj\Debug\Cao_Van_Dan.GUI_DangNhap.resources
+C:\luyenhaidangit\refrigerator-store-manage-app\GUI\obj\Debug\Cao_Van_Dan.GUI_HoaDon.resources
+C:\luyenhaidangit\refrigerator-store-manage-app\GUI\obj\Debug\Cao_Van_Dan.GUI_KhachHang.resources
+C:\luyenhaidangit\refrigerator-store-manage-app\GUI\obj\Debug\Cao_Van_Dan.GUI_Load.resources
+C:\luyenhaidangit\refrigerator-store-manage-app\GUI\obj\Debug\Cao_Van_Dan.GUI_NhanVien.resources
+C:\luyenhaidangit\refrigerator-store-manage-app\GUI\obj\Debug\Cao_Van_Dan.GUI_ThongKe_BaoCao.resources
+C:\luyenhaidangit\refrigerator-store-manage-app\GUI\obj\Debug\Cao_Van_Dan.GUI_TimKiem.resources
+C:\luyenhaidangit\refrigerator-store-manage-app\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\luyenhaidangit\refrigerator-store-manage-app\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\luyenhaidangit\refrigerator-store-manage-app\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\luyenhaidangit\refrigerator-store-manage-app\GUI\obj\Debug\GUI.csproj.CopyComplete
+C:\luyenhaidangit\refrigerator-store-manage-app\GUI\obj\Debug\GUI.exe
+C:\luyenhaidangit\refrigerator-store-manage-app\GUI\obj\Debug\GUI.pdb
+E:\Project1_Winform\Lê Trung Nghĩa\refrigerator-store-manage-app-main\refrigerator-store-manage-app-main\GUI\bin\Debug\GUI.exe.config
+E:\Project1_Winform\Lê Trung Nghĩa\refrigerator-store-manage-app-main\refrigerator-store-manage-app-main\GUI\bin\Debug\GUI.exe
+E:\Project1_Winform\Lê Trung Nghĩa\refrigerator-store-manage-app-main\refrigerator-store-manage-app-main\GUI\bin\Debug\GUI.pdb
+E:\Project1_Winform\Lê Trung Nghĩa\refrigerator-store-manage-app-main\refrigerator-store-manage-app-main\GUI\bin\Debug\BUS.dll
+E:\Project1_Winform\Lê Trung Nghĩa\refrigerator-store-manage-app-main\refrigerator-store-manage-app-main\GUI\bin\Debug\DAL.dll
+E:\Project1_Winform\Lê Trung Nghĩa\refrigerator-store-manage-app-main\refrigerator-store-manage-app-main\GUI\bin\Debug\DTO.dll
+E:\Project1_Winform\Lê Trung Nghĩa\refrigerator-store-manage-app-main\refrigerator-store-manage-app-main\GUI\bin\Debug\BUS.pdb
+E:\Project1_Winform\Lê Trung Nghĩa\refrigerator-store-manage-app-main\refrigerator-store-manage-app-main\GUI\bin\Debug\DAL.pdb
+E:\Project1_Winform\Lê Trung Nghĩa\refrigerator-store-manage-app-main\refrigerator-store-manage-app-main\GUI\bin\Debug\DTO.pdb
+E:\Project1_Winform\Lê Trung Nghĩa\refrigerator-store-manage-app-main\refrigerator-store-manage-app-main\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+E:\Project1_Winform\Lê Trung Nghĩa\refrigerator-store-manage-app-main\refrigerator-store-manage-app-main\GUI\obj\Debug\GUI.csproj.SuggestedBindingRedirects.cache
+E:\Project1_Winform\Lê Trung Nghĩa\refrigerator-store-manage-app-main\refrigerator-store-manage-app-main\GUI\obj\Debug\Cao_Van_Dan.GUI_SanPham.resources
+E:\Project1_Winform\Lê Trung Nghĩa\refrigerator-store-manage-app-main\refrigerator-store-manage-app-main\GUI\obj\Debug\Cao_Van_Dan.GUI_DangKy.resources
+E:\Project1_Winform\Lê Trung Nghĩa\refrigerator-store-manage-app-main\refrigerator-store-manage-app-main\GUI\obj\Debug\Cao_Van_Dan.GUI_DangNhap.resources
+E:\Project1_Winform\Lê Trung Nghĩa\refrigerator-store-manage-app-main\refrigerator-store-manage-app-main\GUI\obj\Debug\Cao_Van_Dan.GUI_HoaDon.resources
+E:\Project1_Winform\Lê Trung Nghĩa\refrigerator-store-manage-app-main\refrigerator-store-manage-app-main\GUI\obj\Debug\Cao_Van_Dan.GUI_KhachHang.resources
+E:\Project1_Winform\Lê Trung Nghĩa\refrigerator-store-manage-app-main\refrigerator-store-manage-app-main\GUI\obj\Debug\Cao_Van_Dan.GUI_Load.resources
+E:\Project1_Winform\Lê Trung Nghĩa\refrigerator-store-manage-app-main\refrigerator-store-manage-app-main\GUI\obj\Debug\Cao_Van_Dan.GUI_NhanVien.resources
+E:\Project1_Winform\Lê Trung Nghĩa\refrigerator-store-manage-app-main\refrigerator-store-manage-app-main\GUI\obj\Debug\Cao_Van_Dan.GUI_ThongKe_BaoCao.resources
+E:\Project1_Winform\Lê Trung Nghĩa\refrigerator-store-manage-app-main\refrigerator-store-manage-app-main\GUI\obj\Debug\Cao_Van_Dan.GUI_TimKiem.resources
+E:\Project1_Winform\Lê Trung Nghĩa\refrigerator-store-manage-app-main\refrigerator-store-manage-app-main\GUI\obj\Debug\GUI.Properties.Resources.resources
+E:\Project1_Winform\Lê Trung Nghĩa\refrigerator-store-manage-app-main\refrigerator-store-manage-app-main\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+E:\Project1_Winform\Lê Trung Nghĩa\refrigerator-store-manage-app-main\refrigerator-store-manage-app-main\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+E:\Project1_Winform\Lê Trung Nghĩa\refrigerator-store-manage-app-main\refrigerator-store-manage-app-main\GUI\obj\Debug\GUI.csproj.CopyComplete
+E:\Project1_Winform\Lê Trung Nghĩa\refrigerator-store-manage-app-main\refrigerator-store-manage-app-main\GUI\obj\Debug\GUI.exe
+E:\Project1_Winform\Lê Trung Nghĩa\refrigerator-store-manage-app-main\refrigerator-store-manage-app-main\GUI\obj\Debug\GUI.pdb
+E:\Project\Project1_Winform\Lê Trung Nghĩa\refrigerator-store-manage-app-main\refrigerator-store-manage-app-main\GUI\bin\Debug\GUI.exe.config
+E:\Project\Project1_Winform\Lê Trung Nghĩa\refrigerator-store-manage-app-main\refrigerator-store-manage-app-main\GUI\bin\Debug\GUI.exe
+E:\Project\Project1_Winform\Lê Trung Nghĩa\refrigerator-store-manage-app-main\refrigerator-store-manage-app-main\GUI\bin\Debug\GUI.pdb
+E:\Project\Project1_Winform\Lê Trung Nghĩa\refrigerator-store-manage-app-main\refrigerator-store-manage-app-main\GUI\bin\Debug\BUS.dll
+E:\Project\Project1_Winform\Lê Trung Nghĩa\refrigerator-store-manage-app-main\refrigerator-store-manage-app-main\GUI\bin\Debug\DAL.dll
+E:\Project\Project1_Winform\Lê Trung Nghĩa\refrigerator-store-manage-app-main\refrigerator-store-manage-app-main\GUI\bin\Debug\DTO.dll
+E:\Project\Project1_Winform\Lê Trung Nghĩa\refrigerator-store-manage-app-main\refrigerator-store-manage-app-main\GUI\bin\Debug\BUS.pdb
+E:\Project\Project1_Winform\Lê Trung Nghĩa\refrigerator-store-manage-app-main\refrigerator-store-manage-app-main\GUI\bin\Debug\DAL.pdb
+E:\Project\Project1_Winform\Lê Trung Nghĩa\refrigerator-store-manage-app-main\refrigerator-store-manage-app-main\GUI\bin\Debug\DTO.pdb
+E:\Project\Project1_Winform\Lê Trung Nghĩa\refrigerator-store-manage-app-main\refrigerator-store-manage-app-main\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+E:\Project\Project1_Winform\Lê Trung Nghĩa\refrigerator-store-manage-app-main\refrigerator-store-manage-app-main\GUI\obj\Debug\GUI.csproj.SuggestedBindingRedirects.cache
+E:\Project\Project1_Winform\Lê Trung Nghĩa\refrigerator-store-manage-app-main\refrigerator-store-manage-app-main\GUI\obj\Debug\Cao_Van_Dan.GUI_SanPham.resources
+E:\Project\Project1_Winform\Lê Trung Nghĩa\refrigerator-store-manage-app-main\refrigerator-store-manage-app-main\GUI\obj\Debug\Cao_Van_Dan.GUI_DangKy.resources
+E:\Project\Project1_Winform\Lê Trung Nghĩa\refrigerator-store-manage-app-main\refrigerator-store-manage-app-main\GUI\obj\Debug\Cao_Van_Dan.GUI_DangNhap.resources
+E:\Project\Project1_Winform\Lê Trung Nghĩa\refrigerator-store-manage-app-main\refrigerator-store-manage-app-main\GUI\obj\Debug\Cao_Van_Dan.GUI_HoaDon.resources
+E:\Project\Project1_Winform\Lê Trung Nghĩa\refrigerator-store-manage-app-main\refrigerator-store-manage-app-main\GUI\obj\Debug\Cao_Van_Dan.GUI_KhachHang.resources
+E:\Project\Project1_Winform\Lê Trung Nghĩa\refrigerator-store-manage-app-main\refrigerator-store-manage-app-main\GUI\obj\Debug\Cao_Van_Dan.GUI_Load.resources
+E:\Project\Project1_Winform\Lê Trung Nghĩa\refrigerator-store-manage-app-main\refrigerator-store-manage-app-main\GUI\obj\Debug\Cao_Van_Dan.GUI_NhanVien.resources
+E:\Project\Project1_Winform\Lê Trung Nghĩa\refrigerator-store-manage-app-main\refrigerator-store-manage-app-main\GUI\obj\Debug\Cao_Van_Dan.GUI_ThongKe_BaoCao.resources
+E:\Project\Project1_Winform\Lê Trung Nghĩa\refrigerator-store-manage-app-main\refrigerator-store-manage-app-main\GUI\obj\Debug\Cao_Van_Dan.GUI_TimKiem.resources
+E:\Project\Project1_Winform\Lê Trung Nghĩa\refrigerator-store-manage-app-main\refrigerator-store-manage-app-main\GUI\obj\Debug\GUI.Properties.Resources.resources
+E:\Project\Project1_Winform\Lê Trung Nghĩa\refrigerator-store-manage-app-main\refrigerator-store-manage-app-main\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+E:\Project\Project1_Winform\Lê Trung Nghĩa\refrigerator-store-manage-app-main\refrigerator-store-manage-app-main\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+E:\Project\Project1_Winform\Lê Trung Nghĩa\refrigerator-store-manage-app-main\refrigerator-store-manage-app-main\GUI\obj\Debug\GUI.csproj.CopyComplete
+E:\Project\Project1_Winform\Lê Trung Nghĩa\refrigerator-store-manage-app-main\refrigerator-store-manage-app-main\GUI\obj\Debug\GUI.exe
+E:\Project\Project1_Winform\Lê Trung Nghĩa\refrigerator-store-manage-app-main\refrigerator-store-manage-app-main\GUI\obj\Debug\GUI.pdb
+E:\Project\Project1_Winform\Phạm Thị Thanh Lan\QuanLyHoaQua\refrigerator-store-manage-app-main\GUI\bin\Debug\GUI.exe.config
+E:\Project\Project1_Winform\Phạm Thị Thanh Lan\QuanLyHoaQua\refrigerator-store-manage-app-main\GUI\bin\Debug\GUI.exe
+E:\Project\Project1_Winform\Phạm Thị Thanh Lan\QuanLyHoaQua\refrigerator-store-manage-app-main\GUI\bin\Debug\GUI.pdb
+E:\Project\Project1_Winform\Phạm Thị Thanh Lan\QuanLyHoaQua\refrigerator-store-manage-app-main\GUI\bin\Debug\BUS.dll
+E:\Project\Project1_Winform\Phạm Thị Thanh Lan\QuanLyHoaQua\refrigerator-store-manage-app-main\GUI\bin\Debug\DAL.dll
+E:\Project\Project1_Winform\Phạm Thị Thanh Lan\QuanLyHoaQua\refrigerator-store-manage-app-main\GUI\bin\Debug\DTO.dll
+E:\Project\Project1_Winform\Phạm Thị Thanh Lan\QuanLyHoaQua\refrigerator-store-manage-app-main\GUI\bin\Debug\BUS.pdb
+E:\Project\Project1_Winform\Phạm Thị Thanh Lan\QuanLyHoaQua\refrigerator-store-manage-app-main\GUI\bin\Debug\DAL.pdb
+E:\Project\Project1_Winform\Phạm Thị Thanh Lan\QuanLyHoaQua\refrigerator-store-manage-app-main\GUI\bin\Debug\DTO.pdb
+E:\Project\Project1_Winform\Phạm Thị Thanh Lan\QuanLyHoaQua\refrigerator-store-manage-app-main\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+E:\Project\Project1_Winform\Phạm Thị Thanh Lan\QuanLyHoaQua\refrigerator-store-manage-app-main\GUI\obj\Debug\GUI.csproj.SuggestedBindingRedirects.cache
+E:\Project\Project1_Winform\Phạm Thị Thanh Lan\QuanLyHoaQua\refrigerator-store-manage-app-main\GUI\obj\Debug\Cao_Van_Dan.GUI_SanPham.resources
+E:\Project\Project1_Winform\Phạm Thị Thanh Lan\QuanLyHoaQua\refrigerator-store-manage-app-main\GUI\obj\Debug\Cao_Van_Dan.GUI_DangKy.resources
+E:\Project\Project1_Winform\Phạm Thị Thanh Lan\QuanLyHoaQua\refrigerator-store-manage-app-main\GUI\obj\Debug\Cao_Van_Dan.GUI_DangNhap.resources
+E:\Project\Project1_Winform\Phạm Thị Thanh Lan\QuanLyHoaQua\refrigerator-store-manage-app-main\GUI\obj\Debug\Cao_Van_Dan.GUI_HoaDon.resources
+E:\Project\Project1_Winform\Phạm Thị Thanh Lan\QuanLyHoaQua\refrigerator-store-manage-app-main\GUI\obj\Debug\Cao_Van_Dan.GUI_KhachHang.resources
+E:\Project\Project1_Winform\Phạm Thị Thanh Lan\QuanLyHoaQua\refrigerator-store-manage-app-main\GUI\obj\Debug\Cao_Van_Dan.GUI_Load.resources
+E:\Project\Project1_Winform\Phạm Thị Thanh Lan\QuanLyHoaQua\refrigerator-store-manage-app-main\GUI\obj\Debug\Cao_Van_Dan.GUI_NhanVien.resources
+E:\Project\Project1_Winform\Phạm Thị Thanh Lan\QuanLyHoaQua\refrigerator-store-manage-app-main\GUI\obj\Debug\Cao_Van_Dan.GUI_ThongKe_BaoCao.resources
+E:\Project\Project1_Winform\Phạm Thị Thanh Lan\QuanLyHoaQua\refrigerator-store-manage-app-main\GUI\obj\Debug\Cao_Van_Dan.GUI_TimKiem.resources
+E:\Project\Project1_Winform\Phạm Thị Thanh Lan\QuanLyHoaQua\refrigerator-store-manage-app-main\GUI\obj\Debug\GUI.Properties.Resources.resources
+E:\Project\Project1_Winform\Phạm Thị Thanh Lan\QuanLyHoaQua\refrigerator-store-manage-app-main\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+E:\Project\Project1_Winform\Phạm Thị Thanh Lan\QuanLyHoaQua\refrigerator-store-manage-app-main\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+E:\Project\Project1_Winform\Phạm Thị Thanh Lan\QuanLyHoaQua\refrigerator-store-manage-app-main\GUI\obj\Debug\GUI.csproj.CopyComplete
+E:\Project\Project1_Winform\Phạm Thị Thanh Lan\QuanLyHoaQua\refrigerator-store-manage-app-main\GUI\obj\Debug\GUI.exe
+E:\Project\Project1_Winform\Phạm Thị Thanh Lan\QuanLyHoaQua\refrigerator-store-manage-app-main\GUI\obj\Debug\GUI.pdb
+E:\Project\Project1_Winform\Phạm Thị Thanh Lan\QuanLyHoaQua\refrigerator-store-manage-app-main\GUI\obj\Debug\GUI.Gui_Menu.resources
+E:\Project\Project1_Winform\Phạm Thị Thanh Lan\QuanLyHoaQua\refrigerator-store-manage-app-main\GUI\obj\Debug\GUI.Gui_HoaDonNhap.resources
+E:\Project\Project1_Winform\Phạm Thị Thanh Lan\QuanLyHoaQua\refrigerator-store-manage-app-main\GUI\bin\Debug\EPPlus.dll
+E:\Project\Project1_Winform\Phạm Thị Thanh Lan\QuanLyHoaQua\refrigerator-store-manage-app-main\GUI\bin\Debug\EPPlus.Interfaces.dll
+E:\Project\Project1_Winform\Phạm Thị Thanh Lan\QuanLyHoaQua\refrigerator-store-manage-app-main\GUI\bin\Debug\EPPlus.System.Drawing.dll
+E:\Project\Project1_Winform\Phạm Thị Thanh Lan\QuanLyHoaQua\refrigerator-store-manage-app-main\GUI\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+E:\Project\Project1_Winform\Phạm Thị Thanh Lan\QuanLyHoaQua\refrigerator-store-manage-app-main\GUI\bin\Debug\EPPlus.xml
+E:\Project\Project1_Winform\Phạm Thị Thanh Lan\QuanLyHoaQua\refrigerator-store-manage-app-main\GUI\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\Project1\QuanLyHoaQua_New\QuanLyHoaQua\refrigerator-store-manage-app-main\GUI\bin\Debug\GUI.exe.config
+D:\Project1\QuanLyHoaQua_New\QuanLyHoaQua\refrigerator-store-manage-app-main\GUI\bin\Debug\GUI.exe
+D:\Project1\QuanLyHoaQua_New\QuanLyHoaQua\refrigerator-store-manage-app-main\GUI\bin\Debug\GUI.pdb
+D:\Project1\QuanLyHoaQua_New\QuanLyHoaQua\refrigerator-store-manage-app-main\GUI\bin\Debug\BUS.dll
+D:\Project1\QuanLyHoaQua_New\QuanLyHoaQua\refrigerator-store-manage-app-main\GUI\bin\Debug\DAL.dll
+D:\Project1\QuanLyHoaQua_New\QuanLyHoaQua\refrigerator-store-manage-app-main\GUI\bin\Debug\DTO.dll
+D:\Project1\QuanLyHoaQua_New\QuanLyHoaQua\refrigerator-store-manage-app-main\GUI\bin\Debug\EPPlus.dll
+D:\Project1\QuanLyHoaQua_New\QuanLyHoaQua\refrigerator-store-manage-app-main\GUI\bin\Debug\EPPlus.Interfaces.dll
+D:\Project1\QuanLyHoaQua_New\QuanLyHoaQua\refrigerator-store-manage-app-main\GUI\bin\Debug\EPPlus.System.Drawing.dll
+D:\Project1\QuanLyHoaQua_New\QuanLyHoaQua\refrigerator-store-manage-app-main\GUI\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\Project1\QuanLyHoaQua_New\QuanLyHoaQua\refrigerator-store-manage-app-main\GUI\bin\Debug\BUS.pdb
+D:\Project1\QuanLyHoaQua_New\QuanLyHoaQua\refrigerator-store-manage-app-main\GUI\bin\Debug\DAL.pdb
+D:\Project1\QuanLyHoaQua_New\QuanLyHoaQua\refrigerator-store-manage-app-main\GUI\bin\Debug\DTO.pdb
+D:\Project1\QuanLyHoaQua_New\QuanLyHoaQua\refrigerator-store-manage-app-main\GUI\bin\Debug\EPPlus.xml
+D:\Project1\QuanLyHoaQua_New\QuanLyHoaQua\refrigerator-store-manage-app-main\GUI\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\Project1\QuanLyHoaQua_New\QuanLyHoaQua\refrigerator-store-manage-app-main\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\Project1\QuanLyHoaQua_New\QuanLyHoaQua\refrigerator-store-manage-app-main\GUI\obj\Debug\GUI.csproj.SuggestedBindingRedirects.cache
+D:\Project1\QuanLyHoaQua_New\QuanLyHoaQua\refrigerator-store-manage-app-main\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\Project1\QuanLyHoaQua_New\QuanLyHoaQua\refrigerator-store-manage-app-main\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\Project1\QuanLyHoaQua_New\QuanLyHoaQua\refrigerator-store-manage-app-main\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\Project1\QuanLyHoaQua_New\QuanLyHoaQua\refrigerator-store-manage-app-main\GUI\obj\Debug\GUI.csproj.CopyComplete
+D:\Project1\QuanLyHoaQua_New\QuanLyHoaQua\refrigerator-store-manage-app-main\GUI\obj\Debug\GUI.exe
+D:\Project1\QuanLyHoaQua_New\QuanLyHoaQua\refrigerator-store-manage-app-main\GUI\obj\Debug\GUI.pdb
+D:\Project1\QuanLyHoaQua_New\QuanLyHoaQua\refrigerator-store-manage-app-main\GUI\obj\Debug\ThanhLan.GUI_SanPham.resources
+D:\Project1\QuanLyHoaQua_New\QuanLyHoaQua\refrigerator-store-manage-app-main\GUI\obj\Debug\ThanhLan.GUI_DangKy.resources
+D:\Project1\QuanLyHoaQua_New\QuanLyHoaQua\refrigerator-store-manage-app-main\GUI\obj\Debug\ThanhLan.GUI_DangNhap.resources
+D:\Project1\QuanLyHoaQua_New\QuanLyHoaQua\refrigerator-store-manage-app-main\GUI\obj\Debug\ThanhLan.GUI_HoaDon.resources
+D:\Project1\QuanLyHoaQua_New\QuanLyHoaQua\refrigerator-store-manage-app-main\GUI\obj\Debug\ThanhLan.GUI_KhachHang.resources
+D:\Project1\QuanLyHoaQua_New\QuanLyHoaQua\refrigerator-store-manage-app-main\GUI\obj\Debug\ThanhLan.GUI_NhanVien.resources
+D:\Project1\QuanLyHoaQua_New\QuanLyHoaQua\refrigerator-store-manage-app-main\GUI\obj\Debug\ThanhLan.GUI_ThongKe_BaoCao.resources
+D:\Project1\QuanLyHoaQua_New\QuanLyHoaQua\refrigerator-store-manage-app-main\GUI\obj\Debug\ThanhLan.GUI_TimKiem.resources
+D:\Project1\QuanLyHoaQua_New\QuanLyHoaQua\refrigerator-store-manage-app-main\GUI\obj\Debug\ThanhLan.Gui_HoaDonNhap.resources
+D:\Project1\QuanLyHoaQua_New\QuanLyHoaQua\refrigerator-store-manage-app-main\GUI\obj\Debug\ThanhLan.Gui_Menu.resources
+D:\Project1\QuanLyHoaQua_New\QuanLyHoaQua\refrigerator-store-manage-app-main\GUI\obj\Debug\ThanhLan.GUI_NhaCungCap.resources
+D:\Project1\QuanLyHoaQua_New\QuanLyHoaQua\refrigerator-store-manage-app-main\GUI\bin\Debug\nunit.framework.dll
+D:\Project1\QuanLyHoaQua_New\QuanLyHoaQua\refrigerator-store-manage-app-main\GUI\bin\Debug\System.Data.SqlClient.dll
+D:\Project1\QuanLyHoaQua_New\QuanLyHoaQua\refrigerator-store-manage-app-main\GUI\bin\Debug\nunit.framework.xml
+D:\Project1\QuanLyHoaQua_New\QuanLyHoaQua\refrigerator-store-manage-app-main\GUI\bin\Debug\System.Data.SqlClient.xml

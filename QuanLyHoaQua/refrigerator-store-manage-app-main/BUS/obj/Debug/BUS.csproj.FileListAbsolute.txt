@@ -1,0 +1,104 @@
+D:\BTL Winform\Cao_Van_Dan\BUS\bin\Debug\BUS.dll
+D:\BTL Winform\Cao_Van_Dan\BUS\bin\Debug\BUS.pdb
+D:\BTL Winform\Cao_Van_Dan\BUS\bin\Debug\DAL.dll
+D:\BTL Winform\Cao_Van_Dan\BUS\bin\Debug\Entities.dll
+D:\BTL Winform\Cao_Van_Dan\BUS\bin\Debug\DAL.pdb
+D:\BTL Winform\Cao_Van_Dan\BUS\bin\Debug\Entities.pdb
+D:\BTL Winform\Cao_Van_Dan\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\BTL Winform\Cao_Van_Dan\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\BTL Winform\Cao_Van_Dan\BUS\obj\Debug\BUS.dll
+D:\BTL Winform\Cao_Van_Dan\BUS\obj\Debug\BUS.pdb
+D:\BTL Winform\Cao_Van_Dan\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\Users\PC\OneDrive\Máy tính\New folder (2)\BTL Winform\Cao_Van_Dan\BUS\bin\Debug\BUS.dll
+C:\Users\PC\OneDrive\Máy tính\New folder (2)\BTL Winform\Cao_Van_Dan\BUS\bin\Debug\BUS.pdb
+C:\Users\PC\OneDrive\Máy tính\New folder (2)\BTL Winform\Cao_Van_Dan\BUS\bin\Debug\DAL.dll
+C:\Users\PC\OneDrive\Máy tính\New folder (2)\BTL Winform\Cao_Van_Dan\BUS\bin\Debug\Entities.dll
+C:\Users\PC\OneDrive\Máy tính\New folder (2)\BTL Winform\Cao_Van_Dan\BUS\bin\Debug\DAL.pdb
+C:\Users\PC\OneDrive\Máy tính\New folder (2)\BTL Winform\Cao_Van_Dan\BUS\bin\Debug\Entities.pdb
+C:\Users\PC\OneDrive\Máy tính\New folder (2)\BTL Winform\Cao_Van_Dan\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\Users\PC\OneDrive\Máy tính\New folder (2)\BTL Winform\Cao_Van_Dan\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Máy tính\New folder (2)\BTL Winform\Cao_Van_Dan\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\PC\OneDrive\Máy tính\New folder (2)\BTL Winform\Cao_Van_Dan\BUS\obj\Debug\BUS.dll
+C:\Users\PC\OneDrive\Máy tính\New folder (2)\BTL Winform\Cao_Van_Dan\BUS\obj\Debug\BUS.pdb
+C:\luyenhaidangit.github.io\refrigerators-store-manage-app\BUS\bin\Debug\BUS.dll
+C:\luyenhaidangit.github.io\refrigerators-store-manage-app\BUS\bin\Debug\BUS.pdb
+C:\luyenhaidangit.github.io\refrigerators-store-manage-app\BUS\bin\Debug\DAL.dll
+C:\luyenhaidangit.github.io\refrigerators-store-manage-app\BUS\bin\Debug\DAL.pdb
+C:\luyenhaidangit.github.io\refrigerators-store-manage-app\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\luyenhaidangit.github.io\refrigerators-store-manage-app\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\luyenhaidangit.github.io\refrigerators-store-manage-app\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\luyenhaidangit.github.io\refrigerators-store-manage-app\BUS\obj\Debug\BUS.dll
+C:\luyenhaidangit.github.io\refrigerators-store-manage-app\BUS\obj\Debug\BUS.pdb
+C:\luyenhaidangit.github.io\refrigerators-store-manage-app\BUS\bin\Debug\DTO.dll
+C:\luyenhaidangit.github.io\refrigerators-store-manage-app\BUS\bin\Debug\DTO.pdb
+C:\luyenhaidangit\refrigerator-store-manage-app\BUS\bin\Debug\BUS.dll
+C:\luyenhaidangit\refrigerator-store-manage-app\BUS\bin\Debug\BUS.pdb
+C:\luyenhaidangit\refrigerator-store-manage-app\BUS\bin\Debug\DAL.dll
+C:\luyenhaidangit\refrigerator-store-manage-app\BUS\bin\Debug\DTO.dll
+C:\luyenhaidangit\refrigerator-store-manage-app\BUS\bin\Debug\DAL.pdb
+C:\luyenhaidangit\refrigerator-store-manage-app\BUS\bin\Debug\DTO.pdb
+C:\luyenhaidangit\refrigerator-store-manage-app\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\luyenhaidangit\refrigerator-store-manage-app\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\luyenhaidangit\refrigerator-store-manage-app\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\luyenhaidangit\refrigerator-store-manage-app\BUS\obj\Debug\BUS.dll
+C:\luyenhaidangit\refrigerator-store-manage-app\BUS\obj\Debug\BUS.pdb
+E:\Project1_Winform\Lê Trung Nghĩa\refrigerator-store-manage-app-main\refrigerator-store-manage-app-main\BUS\bin\Debug\BUS.dll
+E:\Project1_Winform\Lê Trung Nghĩa\refrigerator-store-manage-app-main\refrigerator-store-manage-app-main\BUS\bin\Debug\BUS.pdb
+E:\Project1_Winform\Lê Trung Nghĩa\refrigerator-store-manage-app-main\refrigerator-store-manage-app-main\BUS\bin\Debug\DAL.dll
+E:\Project1_Winform\Lê Trung Nghĩa\refrigerator-store-manage-app-main\refrigerator-store-manage-app-main\BUS\bin\Debug\DTO.dll
+E:\Project1_Winform\Lê Trung Nghĩa\refrigerator-store-manage-app-main\refrigerator-store-manage-app-main\BUS\bin\Debug\DAL.pdb
+E:\Project1_Winform\Lê Trung Nghĩa\refrigerator-store-manage-app-main\refrigerator-store-manage-app-main\BUS\bin\Debug\DTO.pdb
+E:\Project1_Winform\Lê Trung Nghĩa\refrigerator-store-manage-app-main\refrigerator-store-manage-app-main\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+E:\Project1_Winform\Lê Trung Nghĩa\refrigerator-store-manage-app-main\refrigerator-store-manage-app-main\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+E:\Project1_Winform\Lê Trung Nghĩa\refrigerator-store-manage-app-main\refrigerator-store-manage-app-main\BUS\obj\Debug\BUS.csproj.CopyComplete
+E:\Project1_Winform\Lê Trung Nghĩa\refrigerator-store-manage-app-main\refrigerator-store-manage-app-main\BUS\obj\Debug\BUS.dll
+E:\Project1_Winform\Lê Trung Nghĩa\refrigerator-store-manage-app-main\refrigerator-store-manage-app-main\BUS\obj\Debug\BUS.pdb
+E:\Project\Project1_Winform\Lê Trung Nghĩa\refrigerator-store-manage-app-main\refrigerator-store-manage-app-main\BUS\bin\Debug\BUS.dll
+E:\Project\Project1_Winform\Lê Trung Nghĩa\refrigerator-store-manage-app-main\refrigerator-store-manage-app-main\BUS\bin\Debug\BUS.pdb
+E:\Project\Project1_Winform\Lê Trung Nghĩa\refrigerator-store-manage-app-main\refrigerator-store-manage-app-main\BUS\bin\Debug\DAL.dll
+E:\Project\Project1_Winform\Lê Trung Nghĩa\refrigerator-store-manage-app-main\refrigerator-store-manage-app-main\BUS\bin\Debug\DTO.dll
+E:\Project\Project1_Winform\Lê Trung Nghĩa\refrigerator-store-manage-app-main\refrigerator-store-manage-app-main\BUS\bin\Debug\DAL.pdb
+E:\Project\Project1_Winform\Lê Trung Nghĩa\refrigerator-store-manage-app-main\refrigerator-store-manage-app-main\BUS\bin\Debug\DTO.pdb
+E:\Project\Project1_Winform\Lê Trung Nghĩa\refrigerator-store-manage-app-main\refrigerator-store-manage-app-main\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+E:\Project\Project1_Winform\Lê Trung Nghĩa\refrigerator-store-manage-app-main\refrigerator-store-manage-app-main\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+E:\Project\Project1_Winform\Lê Trung Nghĩa\refrigerator-store-manage-app-main\refrigerator-store-manage-app-main\BUS\obj\Debug\BUS.csproj.CopyComplete
+E:\Project\Project1_Winform\Lê Trung Nghĩa\refrigerator-store-manage-app-main\refrigerator-store-manage-app-main\BUS\obj\Debug\BUS.dll
+E:\Project\Project1_Winform\Lê Trung Nghĩa\refrigerator-store-manage-app-main\refrigerator-store-manage-app-main\BUS\obj\Debug\BUS.pdb
+E:\Project\Project1_Winform\Phạm Thị Thanh Lan\QuanLyHoaQua\refrigerator-store-manage-app-main\BUS\bin\Debug\BUS.dll
+E:\Project\Project1_Winform\Phạm Thị Thanh Lan\QuanLyHoaQua\refrigerator-store-manage-app-main\BUS\bin\Debug\BUS.pdb
+E:\Project\Project1_Winform\Phạm Thị Thanh Lan\QuanLyHoaQua\refrigerator-store-manage-app-main\BUS\bin\Debug\DAL.dll
+E:\Project\Project1_Winform\Phạm Thị Thanh Lan\QuanLyHoaQua\refrigerator-store-manage-app-main\BUS\bin\Debug\DTO.dll
+E:\Project\Project1_Winform\Phạm Thị Thanh Lan\QuanLyHoaQua\refrigerator-store-manage-app-main\BUS\bin\Debug\DAL.pdb
+E:\Project\Project1_Winform\Phạm Thị Thanh Lan\QuanLyHoaQua\refrigerator-store-manage-app-main\BUS\bin\Debug\DTO.pdb
+E:\Project\Project1_Winform\Phạm Thị Thanh Lan\QuanLyHoaQua\refrigerator-store-manage-app-main\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+E:\Project\Project1_Winform\Phạm Thị Thanh Lan\QuanLyHoaQua\refrigerator-store-manage-app-main\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+E:\Project\Project1_Winform\Phạm Thị Thanh Lan\QuanLyHoaQua\refrigerator-store-manage-app-main\BUS\obj\Debug\BUS.csproj.CopyComplete
+E:\Project\Project1_Winform\Phạm Thị Thanh Lan\QuanLyHoaQua\refrigerator-store-manage-app-main\BUS\obj\Debug\BUS.dll
+E:\Project\Project1_Winform\Phạm Thị Thanh Lan\QuanLyHoaQua\refrigerator-store-manage-app-main\BUS\obj\Debug\BUS.pdb
+E:\Project\Project1_Winform\Phạm Thị Thanh Lan\QuanLyHoaQua\refrigerator-store-manage-app-main\BUS\bin\Debug\EPPlus.dll
+E:\Project\Project1_Winform\Phạm Thị Thanh Lan\QuanLyHoaQua\refrigerator-store-manage-app-main\BUS\bin\Debug\EPPlus.Interfaces.dll
+E:\Project\Project1_Winform\Phạm Thị Thanh Lan\QuanLyHoaQua\refrigerator-store-manage-app-main\BUS\bin\Debug\EPPlus.System.Drawing.dll
+E:\Project\Project1_Winform\Phạm Thị Thanh Lan\QuanLyHoaQua\refrigerator-store-manage-app-main\BUS\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+E:\Project\Project1_Winform\Phạm Thị Thanh Lan\QuanLyHoaQua\refrigerator-store-manage-app-main\BUS\bin\Debug\EPPlus.xml
+E:\Project\Project1_Winform\Phạm Thị Thanh Lan\QuanLyHoaQua\refrigerator-store-manage-app-main\BUS\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\Project1\QuanLyHoaQua_New\QuanLyHoaQua\refrigerator-store-manage-app-main\BUS\bin\Debug\BUS.dll
+D:\Project1\QuanLyHoaQua_New\QuanLyHoaQua\refrigerator-store-manage-app-main\BUS\bin\Debug\BUS.pdb
+D:\Project1\QuanLyHoaQua_New\QuanLyHoaQua\refrigerator-store-manage-app-main\BUS\bin\Debug\DAL.dll
+D:\Project1\QuanLyHoaQua_New\QuanLyHoaQua\refrigerator-store-manage-app-main\BUS\bin\Debug\DTO.dll
+D:\Project1\QuanLyHoaQua_New\QuanLyHoaQua\refrigerator-store-manage-app-main\BUS\bin\Debug\EPPlus.dll
+D:\Project1\QuanLyHoaQua_New\QuanLyHoaQua\refrigerator-store-manage-app-main\BUS\bin\Debug\EPPlus.Interfaces.dll
+D:\Project1\QuanLyHoaQua_New\QuanLyHoaQua\refrigerator-store-manage-app-main\BUS\bin\Debug\EPPlus.System.Drawing.dll
+D:\Project1\QuanLyHoaQua_New\QuanLyHoaQua\refrigerator-store-manage-app-main\BUS\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\Project1\QuanLyHoaQua_New\QuanLyHoaQua\refrigerator-store-manage-app-main\BUS\bin\Debug\DAL.pdb
+D:\Project1\QuanLyHoaQua_New\QuanLyHoaQua\refrigerator-store-manage-app-main\BUS\bin\Debug\DTO.pdb
+D:\Project1\QuanLyHoaQua_New\QuanLyHoaQua\refrigerator-store-manage-app-main\BUS\bin\Debug\EPPlus.xml
+D:\Project1\QuanLyHoaQua_New\QuanLyHoaQua\refrigerator-store-manage-app-main\BUS\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\Project1\QuanLyHoaQua_New\QuanLyHoaQua\refrigerator-store-manage-app-main\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+D:\Project1\QuanLyHoaQua_New\QuanLyHoaQua\refrigerator-store-manage-app-main\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\Project1\QuanLyHoaQua_New\QuanLyHoaQua\refrigerator-store-manage-app-main\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\Project1\QuanLyHoaQua_New\QuanLyHoaQua\refrigerator-store-manage-app-main\BUS\obj\Debug\BUS.dll
+D:\Project1\QuanLyHoaQua_New\QuanLyHoaQua\refrigerator-store-manage-app-main\BUS\obj\Debug\BUS.pdb
+D:\Project1\QuanLyHoaQua_New\QuanLyHoaQua\refrigerator-store-manage-app-main\BUS\bin\Debug\nunit.framework.dll
+D:\Project1\QuanLyHoaQua_New\QuanLyHoaQua\refrigerator-store-manage-app-main\BUS\bin\Debug\System.Data.SqlClient.dll
+D:\Project1\QuanLyHoaQua_New\QuanLyHoaQua\refrigerator-store-manage-app-main\BUS\bin\Debug\nunit.framework.xml
+D:\Project1\QuanLyHoaQua_New\QuanLyHoaQua\refrigerator-store-manage-app-main\BUS\bin\Debug\System.Data.SqlClient.xml

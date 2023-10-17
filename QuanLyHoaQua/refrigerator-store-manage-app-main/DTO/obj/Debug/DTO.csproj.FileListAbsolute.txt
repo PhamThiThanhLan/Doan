@@ -1,0 +1,54 @@
+C:\luyenhaidangit.github.io\refrigerators-store-manage-app\DTO\bin\Debug\DTO.dll
+C:\luyenhaidangit.github.io\refrigerators-store-manage-app\DTO\bin\Debug\DTO.pdb
+C:\luyenhaidangit.github.io\refrigerators-store-manage-app\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+C:\luyenhaidangit.github.io\refrigerators-store-manage-app\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\luyenhaidangit.github.io\refrigerators-store-manage-app\DTO\obj\Debug\DTO.dll
+C:\luyenhaidangit.github.io\refrigerators-store-manage-app\DTO\obj\Debug\DTO.pdb
+C:\luyenhaidangit\refrigerator-store-manage-app\DTO\bin\Debug\DTO.dll
+C:\luyenhaidangit\refrigerator-store-manage-app\DTO\bin\Debug\DTO.pdb
+C:\luyenhaidangit\refrigerator-store-manage-app\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+C:\luyenhaidangit\refrigerator-store-manage-app\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\luyenhaidangit\refrigerator-store-manage-app\DTO\obj\Debug\DTO.dll
+C:\luyenhaidangit\refrigerator-store-manage-app\DTO\obj\Debug\DTO.pdb
+E:\Project1_Winform\Lê Trung Nghĩa\refrigerator-store-manage-app-main\refrigerator-store-manage-app-main\DTO\bin\Debug\DTO.dll
+E:\Project1_Winform\Lê Trung Nghĩa\refrigerator-store-manage-app-main\refrigerator-store-manage-app-main\DTO\bin\Debug\DTO.pdb
+E:\Project1_Winform\Lê Trung Nghĩa\refrigerator-store-manage-app-main\refrigerator-store-manage-app-main\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+E:\Project1_Winform\Lê Trung Nghĩa\refrigerator-store-manage-app-main\refrigerator-store-manage-app-main\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+E:\Project1_Winform\Lê Trung Nghĩa\refrigerator-store-manage-app-main\refrigerator-store-manage-app-main\DTO\obj\Debug\DTO.dll
+E:\Project1_Winform\Lê Trung Nghĩa\refrigerator-store-manage-app-main\refrigerator-store-manage-app-main\DTO\obj\Debug\DTO.pdb
+E:\Project\Project1_Winform\Lê Trung Nghĩa\refrigerator-store-manage-app-main\refrigerator-store-manage-app-main\DTO\bin\Debug\DTO.dll
+E:\Project\Project1_Winform\Lê Trung Nghĩa\refrigerator-store-manage-app-main\refrigerator-store-manage-app-main\DTO\bin\Debug\DTO.pdb
+E:\Project\Project1_Winform\Lê Trung Nghĩa\refrigerator-store-manage-app-main\refrigerator-store-manage-app-main\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+E:\Project\Project1_Winform\Lê Trung Nghĩa\refrigerator-store-manage-app-main\refrigerator-store-manage-app-main\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+E:\Project\Project1_Winform\Lê Trung Nghĩa\refrigerator-store-manage-app-main\refrigerator-store-manage-app-main\DTO\obj\Debug\DTO.dll
+E:\Project\Project1_Winform\Lê Trung Nghĩa\refrigerator-store-manage-app-main\refrigerator-store-manage-app-main\DTO\obj\Debug\DTO.pdb
+E:\Project\Project1_Winform\Phạm Thị Thanh Lan\QuanLyHoaQua\refrigerator-store-manage-app-main\DTO\bin\Debug\DTO.dll
+E:\Project\Project1_Winform\Phạm Thị Thanh Lan\QuanLyHoaQua\refrigerator-store-manage-app-main\DTO\bin\Debug\DTO.pdb
+E:\Project\Project1_Winform\Phạm Thị Thanh Lan\QuanLyHoaQua\refrigerator-store-manage-app-main\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+E:\Project\Project1_Winform\Phạm Thị Thanh Lan\QuanLyHoaQua\refrigerator-store-manage-app-main\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+E:\Project\Project1_Winform\Phạm Thị Thanh Lan\QuanLyHoaQua\refrigerator-store-manage-app-main\DTO\obj\Debug\DTO.dll
+E:\Project\Project1_Winform\Phạm Thị Thanh Lan\QuanLyHoaQua\refrigerator-store-manage-app-main\DTO\obj\Debug\DTO.pdb
+E:\Project\Project1_Winform\Phạm Thị Thanh Lan\QuanLyHoaQua\refrigerator-store-manage-app-main\DTO\bin\Debug\EPPlus.dll
+E:\Project\Project1_Winform\Phạm Thị Thanh Lan\QuanLyHoaQua\refrigerator-store-manage-app-main\DTO\bin\Debug\EPPlus.Interfaces.dll
+E:\Project\Project1_Winform\Phạm Thị Thanh Lan\QuanLyHoaQua\refrigerator-store-manage-app-main\DTO\bin\Debug\EPPlus.System.Drawing.dll
+E:\Project\Project1_Winform\Phạm Thị Thanh Lan\QuanLyHoaQua\refrigerator-store-manage-app-main\DTO\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+E:\Project\Project1_Winform\Phạm Thị Thanh Lan\QuanLyHoaQua\refrigerator-store-manage-app-main\DTO\bin\Debug\EPPlus.xml
+E:\Project\Project1_Winform\Phạm Thị Thanh Lan\QuanLyHoaQua\refrigerator-store-manage-app-main\DTO\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+E:\Project\Project1_Winform\Phạm Thị Thanh Lan\QuanLyHoaQua\refrigerator-store-manage-app-main\DTO\obj\Debug\DTO.csproj.CopyComplete
+D:\Project1\QuanLyHoaQua_New\QuanLyHoaQua\refrigerator-store-manage-app-main\DTO\bin\Debug\DTO.dll
+D:\Project1\QuanLyHoaQua_New\QuanLyHoaQua\refrigerator-store-manage-app-main\DTO\bin\Debug\DTO.pdb
+D:\Project1\QuanLyHoaQua_New\QuanLyHoaQua\refrigerator-store-manage-app-main\DTO\bin\Debug\EPPlus.dll
+D:\Project1\QuanLyHoaQua_New\QuanLyHoaQua\refrigerator-store-manage-app-main\DTO\bin\Debug\EPPlus.Interfaces.dll
+D:\Project1\QuanLyHoaQua_New\QuanLyHoaQua\refrigerator-store-manage-app-main\DTO\bin\Debug\EPPlus.System.Drawing.dll
+D:\Project1\QuanLyHoaQua_New\QuanLyHoaQua\refrigerator-store-manage-app-main\DTO\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\Project1\QuanLyHoaQua_New\QuanLyHoaQua\refrigerator-store-manage-app-main\DTO\bin\Debug\EPPlus.xml
+D:\Project1\QuanLyHoaQua_New\QuanLyHoaQua\refrigerator-store-manage-app-main\DTO\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\Project1\QuanLyHoaQua_New\QuanLyHoaQua\refrigerator-store-manage-app-main\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\Project1\QuanLyHoaQua_New\QuanLyHoaQua\refrigerator-store-manage-app-main\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\Project1\QuanLyHoaQua_New\QuanLyHoaQua\refrigerator-store-manage-app-main\DTO\obj\Debug\DTO.csproj.CopyComplete
+D:\Project1\QuanLyHoaQua_New\QuanLyHoaQua\refrigerator-store-manage-app-main\DTO\obj\Debug\DTO.dll
+D:\Project1\QuanLyHoaQua_New\QuanLyHoaQua\refrigerator-store-manage-app-main\DTO\obj\Debug\DTO.pdb
+D:\Project1\QuanLyHoaQua_New\QuanLyHoaQua\refrigerator-store-manage-app-main\DTO\bin\Debug\nunit.framework.dll
+D:\Project1\QuanLyHoaQua_New\QuanLyHoaQua\refrigerator-store-manage-app-main\DTO\bin\Debug\System.Data.SqlClient.dll
+D:\Project1\QuanLyHoaQua_New\QuanLyHoaQua\refrigerator-store-manage-app-main\DTO\bin\Debug\nunit.framework.xml
+D:\Project1\QuanLyHoaQua_New\QuanLyHoaQua\refrigerator-store-manage-app-main\DTO\bin\Debug\System.Data.SqlClient.xml
